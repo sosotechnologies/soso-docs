@@ -11,24 +11,6 @@ Use one of the approaches below:
 - Create a quickstart project with the `new` command covered in [Create a starter site](#create-a-starter-site).
 - Follow the extended guide to create a [Set up up docs site](#setup-a-docs-site) by hand.
 
-### Basic structure
-
-This is the simplest MkDocs site you can make:
-
-- `docs/`
-    - `index.md` - Homepage in the `docs` directory (by default).
-- `mkdocs.yml`
-    - Config at the root - control appearance and navigation of your site.
-    - See this project's [docs/mkdocs.yml](https://github.com/MichaelCurrin/mkdocs-quickstart/blob/master/docs/mkdocs.yml) file on GitHub.
-
-Notes on fields for the config:
-
-- `site_name` - title of your site.
-- `site_description` - used as a description for SEO and you could use it somewhere in your template.
-- `site_url` - now a _required_ field when running a deploy. Include the subpath on the domain. If your site is not ready to be hosted, set this field to an empty string.
-- `repo_url` - for _Edit on GitHub_ button. See [docs](https://www.mkdocs.org/user-guide/configuration/#repo_url).
-- `edit_uri` - defaults to `edit/master/docs/`, which includes `docs` directory of markdown files inside your repo root. But, if the site's root is in an outer `docs` directory, then you need to _also_ add that, so paths do not break. e.g. `edit/master/docs/docs`. See [docs](https://www.mkdocs.org/user-guide/configuration/#edit_uri)
-
 ### Requirements file
 
 A requirements file is optional but it can make it easier to manage dependencies. If you choose not use the file, make sure `pip install mkdocs` and `pip install THEME` lines are your instructions.

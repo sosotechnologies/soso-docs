@@ -10,26 +10,15 @@
 
 ## Install system dependencies
 
-<script src="https://gist.github.com/MichaelCurrin/57caae30bd7b0991098e9804a9494c23.js"></script>
-
+install with docker
 
 ## Set up a new repo
 
 Follow the Tutorial page to set up a project from scratch.
 
-Or click this create your own copy of the repo.
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/mkdocs-quickstart/generate)
+O
 
 Then clone your repo.
-
-e.g.
-
-```sh
-$ git clone git@github.com:MichaelCurrin/mkdocs-quickstart.git
-$ cd mkdocs-quickstart
-```
-
 
 ## Install project dependencies
 > Install MkDocs locally

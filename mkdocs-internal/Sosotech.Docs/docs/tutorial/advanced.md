@@ -4,7 +4,7 @@
 Once you've got the [Set up Project](setup-project.md) section, you can customize further using this guide. Or skip this and go to [Usage](usage.md).
 
 
-## Navbar nesting
+## Kubernetes
 
 You can add an additional level to your navbar like this:
 
@@ -39,15 +39,3 @@ You can also structure your project to have the set up above nested inside a `do
         - `toc.html`
     - `mkdocs.yml`
 
-
-An example of this is the [Poetry](https://github.com/python-poetry/poetry/tree/master/docs) repo. That  project is also how I got into MkDocs in the first place.
-
-## Embedding
-
-To embed a gist, just copy and paste the embed script URL which is provided on a gist.
-
-e.g.
-
-```html
-<script src="https://gist.github.com/MichaelCurrin/57caae30bd7b0991098e9804a9494c23.js"></script>
-```

@@ -1,7 +1,8 @@
 # SosoTech Documentation
 >  Started template for a MkDocs docs site on GH Pages - including CI 
 
-[![Repo stars](https://img.shields.io/github/stars/MichaelCurrin/mkdocs-quickstart?style=social)](https://github.com/MichaelCurrin/mkdocs-quickstart)
+[![Repo stars](https://img.shields.io/github/stars/sosotechnologies/soso-docs/tree/master/mkdocs-internal?style=social)](https://github.com/sosotechnologies/soso-docs/tree/master/mkdocs-internal)
+
 
 Use the MkDocs (_make docs_) tool to create build a docs site around markdown docs.
 
@@ -16,7 +17,7 @@ Follow the tutorial to add an existing project or create a project from scratch.
     - Run it locally.
     - Deploy it.
 - **Add a copy of this project to your repos**
-    - [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?logo=github)](https://github.com/MichaelCurrin/mkdocs-quickstart/generate)
+    - [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?logo=github)](https://github.com/sosotechnologies/soso-docs/tree/master/mkdocs-internal/generate)
 - **View the live demo**
     - This site is hosted on GitHub Pages. See if you like it. Other themes are available - see the tutorial.
 
