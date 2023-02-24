@@ -14,9 +14,9 @@ theme: readthedocs
 
 nav:
   - Home: index.md
-  - About MkDocs: about-mkdocs.md
+  - About SosoTech: about-sosotech.md
   - Tutorial:
-      - TL;DR: tutorial/tldr.md
+      - GitOps: tutorial/gitops.md
       - Installation: tutorial/installation.md
       - Set up project: tutorial/setup-project.md
       - Advanced: tutorial/advanced.md
