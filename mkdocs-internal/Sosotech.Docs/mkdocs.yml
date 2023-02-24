@@ -22,3 +22,11 @@ nav:
       - Advanced: tutorial/advanced.md
       - Usage: tutorial/usage.md
       - Deploy: tutorial/deploy.md
+  - Taiwan:
+    - Sea: taiwan/sea.md
+    - Mountain: taiwan/mountain.md
+  - Caption: caption/caption.md
+  - Gallery: gallery/gallery.md
+  - More Flexibility:
+    - Disable by image: disable/image.md
+    - Disable by page: disable/page.md
